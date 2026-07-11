@@ -53,3 +53,7 @@ origin = https://github.com/mainsail-crew/crowsnest.git
 managed_services = crowsnest
 install_script = tools/install.sh
 
+[timelapse]
+output_path = ~/timelapse/
+frame_path = /tmp/timelapse/
+
